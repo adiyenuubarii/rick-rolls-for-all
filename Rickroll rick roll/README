@@ -1,0 +1,10 @@
+Rickroll is an esoteric language
+<br>
+Link: https://github.com/Rick-Lang/rickroll-lang
+
+### How to run
+1. `git clone https://github.com/Rick-Lang/rickroll-lang`
+2.
+```
+python3 Rickroll.py rickroll.rickroll
+```

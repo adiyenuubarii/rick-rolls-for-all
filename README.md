@@ -1,2 +1,2 @@
 # rick-rolls-for-all
-rick roll in every programming language. (almost)
+rick roll in some programming languages. 
